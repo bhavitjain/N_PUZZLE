@@ -1,0 +1,2 @@
+N-puzzle Random Restart Approach average time: 5120.4566
+N-puzzle Random Restart Approach Rate of Success: 0.58600
