@@ -102,7 +102,7 @@ def main():
     
     outcome = title + " outcome:\n\n"
     
-    with open("N_Puzzle_Test.txt", "r") as k:
+    with open("CASE.txt", "r") as k:
         for arr in k:
             print("case: ", total_case_count)
             global fail
