@@ -1,0 +1,2 @@
+N-puzzle Simulated Annealing Approach average time: 2112.52000
+N-puzzle Simulated Annealing Approach Rate of Success: 0.60000
