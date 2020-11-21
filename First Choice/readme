@@ -1,1 +1,5 @@
 First Choice
+
+It aims to find a sufficiently good solution to the problem
+given a large set of inputs and a good heuristic function.
+The worldwide optimal limit may not be this solution.
