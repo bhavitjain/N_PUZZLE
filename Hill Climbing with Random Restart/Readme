@@ -1,3 +1,5 @@
 Hill Climbing with Random Restart
 
-
+Random-restart hill-climbing carries out a sequence
+of searches for hill-climbing from randomly generated initial states,
+each continuing until it stops or makes no significant progress.
