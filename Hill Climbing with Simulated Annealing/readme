@@ -1,1 +1,4 @@
-
+Simulated annealing uses an optimization problem's objective function instead of the energy of a material.
+SA's implementation is surprisingly straightforward.
+The algorithm is basically hill-climbing instead of choosing the right direction,
+except that it selects a random jump.
