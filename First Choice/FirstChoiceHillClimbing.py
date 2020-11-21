@@ -69,7 +69,7 @@ def solution_RandomHillClimbing(board):
             return board
     
 def main():
-    title = "N_Puzzle_RandomHillClimbing"
+    title = "N_Puzzle_First_Choice"
     start = time.process_time()
     success_Case = 0
     total_Case = 0
